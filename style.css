@@ -1,0 +1,45 @@
+body {	background-image:url(fon.jpg);
+		background-size:100%;
+		font-family:"Bookman Old Style, serif";
+		font-size:12pt;
+
+		}
+#ta {	width:1000px;
+		height:630px;
+		margin:0 auto;
+		}
+header {	width:1000px;
+		height:120px;
+		background-image:url(header.gif);
+		}
+nav {	width:180px;
+		height:450px;
+		padding:10px;
+		background:#eaedfe;
+		float:left;
+		}
+#content {
+		width:780px;
+		height:450px;
+		padding:10px;
+		margin-left:200px;
+		background:#ffffff;
+		}
+footer {  
+		width:990px;
+		height:30px;
+		padding:5px;
+		background:#6896e1;
+		}
+.menu {	
+		font-size:12pt;
+		font-weight: bold;
+		}
+.menu2 {	
+		font-size:12pt;
+		font-weight: bold;
+		}
+.menu3 {	
+		font-size:12pt;
+		font-weight: bold;
+		}
