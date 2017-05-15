@@ -1,4 +1,4 @@
-body {	background-image:url(fon.jpg);
+body {	background-image:url(fon.jpg) no-repeat;
 		font-family:"Bookman Old Style, serif";
 		font-size:12pt;
 
