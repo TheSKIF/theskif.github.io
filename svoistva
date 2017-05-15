@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+   <meta charset="utf-8">
+	<title>Свойства кота</title>
+	<style>
+	a:visited {
+			color: #0000d0;}
+	a:hover {
+			font-size:105%;}
+	</style>
+	<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<div id=ta>
+		<header>
+		</header>
+		<nav>
+		<a href="index"><p class=menu href=menu>Котик</p></a>
+		<a href="information"><p class=menu2>Информация</p></a>
+		<p class=menu3>Свойства кота</p>
+		</nav>
+		<div id=content>
+		Пушистый, мягкий, жидкость.
+		</div>
+		<footer>
+		<a href="http://dic.academic.ru/dic.nsf/ruwiki/641511" target="_blank";>Википедия</a>
+		</footer>
+	</div>
+  </body>
+</html>
