@@ -24,6 +24,7 @@ nav {	width:180px;
 		padding:10px;
 		margin-left:200px;
 		background:#ffffff;
+		overflow: scroll
 		}
 footer {  
 		width:990px;
@@ -33,13 +34,21 @@ footer {
 		}
 .menu {	
 		font-size:12pt;
-		font-weight: bold;
+		font-weight:bold;
+		margin-bottom:15px;
+		margin-top:15px;
 		}
-.menu2 {	
-		font-size:12pt;
-		font-weight: bold;
+.ks {
+		text-indent: 30px;
+		margin-bottom:0.5pt;
+		margin-top:0.5pt;
 		}
-.menu3 {	
-		font-size:12pt;
-		font-weight: bold;
-		}
+a:active{
+		color: #0000d0;
+			}	
+a:hover{
+		font-size:105%;
+			}			
+a:visited{
+		color: #0000d0;
+			}		
