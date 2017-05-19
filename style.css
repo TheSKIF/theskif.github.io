@@ -30,8 +30,9 @@ footer {
 		width:990px;
 		height:30px;
 		padding:5px;
-		background:#6896e1;
+		background:linear-gradient(to top, #6896e1, #eaedfe);
 		}
+}		
 .menu {	
 		font-size:12pt;
 		font-weight:bold;
@@ -51,4 +52,4 @@ a:hover{
 			}			
 a:visited{
 		color: #0000d0;
-			}		
+			}				
